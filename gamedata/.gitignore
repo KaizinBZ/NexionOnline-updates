@@ -1,0 +1,16 @@
+# Lixo de sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+._*
+
+# Arquivos temporarios
+*.tmp
+*.bak
+*.log
+*~
+
+# Python
+__pycache__/
+*.pyc
+.venv/
