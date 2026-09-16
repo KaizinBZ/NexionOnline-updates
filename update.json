@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "stable",
-  "game_version": "sw4-id424-test-1",
-  "updated_at": "2026-09-16T00:13:00Z",
+  "game_version": "sw4-id424-test-2",
+  "updated_at": "2026-09-16T20:43:09Z",
   "files": [
     {
       "path": "mods/SW4/bf.dff",
@@ -13,6 +13,18 @@
     {
       "path": "mods/SW4/bf.txd",
       "url": "https://raw.githubusercontent.com/KaizinBZ/NexionOnline-updates/main/mods/SW4/bf.txd",
+      "size": 188704,
+      "sha256": "360a87ea6f2764e4f760e52d58af877dce50610d624f93a8516d04882ad51ebb"
+    },
+    {
+      "path": "mods/SW4/infernus.dff",
+      "url": "https://raw.githubusercontent.com/KaizinBZ/NexionOnline-updates/main/mods/SW4/infernus.dff",
+      "size": 13592175,
+      "sha256": "8f2392a802b11df1c030decfb68a7248d1d49bd9cabbdb6b21b162c05130a39b"
+    },
+    {
+      "path": "mods/SW4/infernus.txd",
+      "url": "https://raw.githubusercontent.com/KaizinBZ/NexionOnline-updates/main/mods/SW4/infernus.txd",
       "size": 188704,
       "sha256": "360a87ea6f2764e4f760e52d58af877dce50610d624f93a8516d04882ad51ebb"
     }
