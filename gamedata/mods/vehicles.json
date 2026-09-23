@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "vehicles": [
+    {
+      "id": 424,
+      "name": "SW4",
+      "dff": "mods/vehicles/424-SW4/bf.dff",
+      "txd": "mods/vehicles/424-SW4/bf.txd"
+    },
+    {
+      "id": 400,
+      "name": "FordRaptor",
+      "dff": "mods/vehicles/400-FordRaptor/FordRaptor.dff",
+      "txd": "mods/vehicles/400-FordRaptor/FordRaptor.txd"
+    },
+    {
+      "id": 427,
+      "name": "BOPEBlindado",
+      "dff": "mods/vehicles/427-BOPEBlindado/enforcer.dff",
+      "txd": "mods/vehicles/427-BOPEBlindado/enforcer.txd"
+    },
+    {
+      "id": 445,
+      "name": "PRFVTR1",
+      "dff": "mods/vehicles/445-PRFVTR1/rancher.dff",
+      "txd": "mods/vehicles/445-PRFVTR1/rancher.txd"
+    }
+  ]
+}

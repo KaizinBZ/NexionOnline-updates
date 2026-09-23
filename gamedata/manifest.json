@@ -2,10 +2,145 @@
   "schema_version": 1,
   "repository": "KaizinBZ/NexionOnline-updates",
   "branch": "main",
-  "generated_at": "2026-09-16T20:23:00Z",
-  "total_files": 2,
-  "total_size": 13780879,
+  "generated_at": "2026-09-23T01:42:28Z",
+  "total_files": 20,
+  "total_size": 62093751,
   "files": [
+    {
+      "path": "mods/vehicles.json",
+      "category": "mods",
+      "size": 704,
+      "sha256": "3b91c5c6b793919ac17e8e56e87ad25d3f4b5bf55ddb5413de50c686bfa61f19",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/KaizinBZ/NexionOnline-updates/main/gamedata/mods/vehicles.json",
+      "updated_at": "2026-09-23T01:42:28Z"
+    },
+    {
+      "path": "mods/vehicles/400-FordRaptor/FordRaptor.dff",
+      "category": "mods",
+      "size": 3735552,
+      "sha256": "1a00da09e062d2deadf947d977a95d6b09e665ec207a43222a6647ec61d87d80",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/KaizinBZ/NexionOnline-updates/main/gamedata/mods/vehicles/400-FordRaptor/FordRaptor.dff",
+      "updated_at": "2026-09-23T01:42:28Z"
+    },
+    {
+      "path": "mods/vehicles/400-FordRaptor/FordRaptor.txd",
+      "category": "mods",
+      "size": 621988,
+      "sha256": "916bdc9f7131ae69e2a89f0193a74021073255b19b8c48885835b23ca235c682",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/KaizinBZ/NexionOnline-updates/main/gamedata/mods/vehicles/400-FordRaptor/FordRaptor.txd",
+      "updated_at": "2026-09-23T01:42:28Z"
+    },
+    {
+      "path": "mods/vehicles/424-SW4/bf.dff",
+      "category": "mods",
+      "size": 13592175,
+      "sha256": "8f2392a802b11df1c030decfb68a7248d1d49bd9cabbdb6b21b162c05130a39b",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/KaizinBZ/NexionOnline-updates/main/gamedata/mods/vehicles/424-SW4/bf.dff",
+      "updated_at": "2026-09-23T01:42:28Z"
+    },
+    {
+      "path": "mods/vehicles/424-SW4/bf.txd",
+      "category": "mods",
+      "size": 188704,
+      "sha256": "360a87ea6f2764e4f760e52d58af877dce50610d624f93a8516d04882ad51ebb",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/KaizinBZ/NexionOnline-updates/main/gamedata/mods/vehicles/424-SW4/bf.txd",
+      "updated_at": "2026-09-23T01:42:28Z"
+    },
+    {
+      "path": "mods/vehicles/427-BOPEBlindado/enforcer.dff",
+      "category": "mods",
+      "size": 1935360,
+      "sha256": "37c10b48baf2d06c00fa2faee37f956fd5e7ca40067d7f82a2bc7f14650f9ec0",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/KaizinBZ/NexionOnline-updates/main/gamedata/mods/vehicles/427-BOPEBlindado/enforcer.dff",
+      "updated_at": "2026-09-23T01:42:28Z"
+    },
+    {
+      "path": "mods/vehicles/427-BOPEBlindado/enforcer.txd",
+      "category": "mods",
+      "size": 3317160,
+      "sha256": "e5fa35f1225779542670c0527a538c8c0177ff95646333b8977aa9c2116276d8",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/KaizinBZ/NexionOnline-updates/main/gamedata/mods/vehicles/427-BOPEBlindado/enforcer.txd",
+      "updated_at": "2026-09-23T01:42:28Z"
+    },
+    {
+      "path": "mods/vehicles/445-PRFVTR1/rancher.dff",
+      "category": "mods",
+      "size": 5253120,
+      "sha256": "0ec1f2bfcba3a2d19afaac9a98c3975e3f5cc9bdcd223257355c5648afa23d25",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/KaizinBZ/NexionOnline-updates/main/gamedata/mods/vehicles/445-PRFVTR1/rancher.dff",
+      "updated_at": "2026-09-23T01:42:28Z"
+    },
+    {
+      "path": "mods/vehicles/445-PRFVTR1/rancher.txd",
+      "category": "mods",
+      "size": 986136,
+      "sha256": "5e1d5f77b7d01cb88527cda339b4b5612791269773a71bfac7e2aefcc370e19b",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/KaizinBZ/NexionOnline-updates/main/gamedata/mods/vehicles/445-PRFVTR1/rancher.txd",
+      "updated_at": "2026-09-23T01:42:28Z"
+    },
+    {
+      "path": "vehicles/400-FordRaptor/FordRaptor.dff",
+      "category": "vehicles",
+      "size": 3735552,
+      "sha256": "1a00da09e062d2deadf947d977a95d6b09e665ec207a43222a6647ec61d87d80",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/KaizinBZ/NexionOnline-updates/main/gamedata/vehicles/400-FordRaptor/FordRaptor.dff",
+      "updated_at": "2026-09-23T00:42:41Z"
+    },
+    {
+      "path": "vehicles/400-FordRaptor/FordRaptor.txd",
+      "category": "vehicles",
+      "size": 621988,
+      "sha256": "916bdc9f7131ae69e2a89f0193a74021073255b19b8c48885835b23ca235c682",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/KaizinBZ/NexionOnline-updates/main/gamedata/vehicles/400-FordRaptor/FordRaptor.txd",
+      "updated_at": "2026-09-23T00:42:41Z"
+    },
+    {
+      "path": "vehicles/427-BOPEBlindado/enforcer.dff",
+      "category": "vehicles",
+      "size": 1935360,
+      "sha256": "37c10b48baf2d06c00fa2faee37f956fd5e7ca40067d7f82a2bc7f14650f9ec0",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/KaizinBZ/NexionOnline-updates/main/gamedata/vehicles/427-BOPEBlindado/enforcer.dff",
+      "updated_at": "2026-09-23T00:42:41Z"
+    },
+    {
+      "path": "vehicles/427-BOPEBlindado/enforcer.txd",
+      "category": "vehicles",
+      "size": 3317160,
+      "sha256": "e5fa35f1225779542670c0527a538c8c0177ff95646333b8977aa9c2116276d8",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/KaizinBZ/NexionOnline-updates/main/gamedata/vehicles/427-BOPEBlindado/enforcer.txd",
+      "updated_at": "2026-09-23T00:42:41Z"
+    },
+    {
+      "path": "vehicles/445-PRFVTR1/rancher.dff",
+      "category": "vehicles",
+      "size": 5253120,
+      "sha256": "0ec1f2bfcba3a2d19afaac9a98c3975e3f5cc9bdcd223257355c5648afa23d25",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/KaizinBZ/NexionOnline-updates/main/gamedata/vehicles/445-PRFVTR1/rancher.dff",
+      "updated_at": "2026-09-23T00:42:41Z"
+    },
+    {
+      "path": "vehicles/445-PRFVTR1/rancher.txd",
+      "category": "vehicles",
+      "size": 986136,
+      "sha256": "5e1d5f77b7d01cb88527cda339b4b5612791269773a71bfac7e2aefcc370e19b",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/KaizinBZ/NexionOnline-updates/main/gamedata/vehicles/445-PRFVTR1/rancher.txd",
+      "updated_at": "2026-09-23T00:42:41Z"
+    },
     {
       "path": "vehicles/SW4/bf.dff",
       "category": "vehicles",
@@ -23,6 +158,33 @@
       "version": "1.0.0",
       "url": "https://raw.githubusercontent.com/KaizinBZ/NexionOnline-updates/main/gamedata/vehicles/SW4/bf.txd",
       "updated_at": "2026-09-16T20:23:00Z"
+    },
+    {
+      "path": "vehicles/VEHICLE_INDEX.md",
+      "category": "vehicles",
+      "size": 1386,
+      "sha256": "37f426d80270583d9f35a26662fd15f51163e2fd66bc0dd363d83604e9522f4f",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/KaizinBZ/NexionOnline-updates/main/gamedata/vehicles/VEHICLE_INDEX.md",
+      "updated_at": "2026-09-23T00:42:41Z"
+    },
+    {
+      "path": "vehicles/unknown-Turquia/turquia.dff",
+      "category": "vehicles",
+      "size": 1460583,
+      "sha256": "0a35a4a139cd39622b492b32d91223519f7e034256272baf09c60ca1786f1ec4",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/KaizinBZ/NexionOnline-updates/main/gamedata/vehicles/unknown-Turquia/turquia.dff",
+      "updated_at": "2026-09-23T00:42:41Z"
+    },
+    {
+      "path": "vehicles/unknown-Turquia/turquia.txd",
+      "category": "vehicles",
+      "size": 1370688,
+      "sha256": "7948f329099399591e0542af555615df9f0202ad701d26e1f8e1952e57e13f1d",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/KaizinBZ/NexionOnline-updates/main/gamedata/vehicles/unknown-Turquia/turquia.txd",
+      "updated_at": "2026-09-23T00:42:41Z"
     }
   ]
 }
