@@ -2,7 +2,7 @@
   "schema_version": 1,
   "repository": "KaizinBZ/NexionOnline-updates",
   "branch": "main",
-  "generated_at": "2026-09-23T01:42:28Z",
+  "generated_at": "2026-09-24T22:15:00Z",
   "total_files": 20,
   "total_size": 62093965,
   "files": [
@@ -11,9 +11,9 @@
       "category": "mods",
       "size": 918,
       "sha256": "0d48f8c4b8eb64cbe2ba51b04b902d5e1716bb61f652b893664ffa4a289c625d",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "url": "https://raw.githubusercontent.com/KaizinBZ/NexionOnline-updates/main/gamedata/mods/vehicles.json",
-      "updated_at": "2026-09-23T01:42:28Z"
+      "updated_at": "2026-09-24T22:15:00Z"
     },
     {
       "path": "mods/vehicles/400-FordRaptor/FordRaptor.dff",
