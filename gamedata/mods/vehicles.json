@@ -1,27 +1,35 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "vehicles": [
     {
       "id": 424,
       "name": "SW4",
+      "model": "bf",
+      "txd_name": "bf",
       "dff": "mods/vehicles/424-SW4/bf.dff",
       "txd": "mods/vehicles/424-SW4/bf.txd"
     },
     {
       "id": 400,
       "name": "FordRaptor",
+      "model": "landstal",
+      "txd_name": "landstal",
       "dff": "mods/vehicles/400-FordRaptor/FordRaptor.dff",
       "txd": "mods/vehicles/400-FordRaptor/FordRaptor.txd"
     },
     {
       "id": 427,
       "name": "BOPEBlindado",
+      "model": "enforcer",
+      "txd_name": "enforcer",
       "dff": "mods/vehicles/427-BOPEBlindado/enforcer.dff",
       "txd": "mods/vehicles/427-BOPEBlindado/enforcer.txd"
     },
     {
       "id": 445,
       "name": "PRFVTR1",
+      "model": "admiral",
+      "txd_name": "admiral",
       "dff": "mods/vehicles/445-PRFVTR1/rancher.dff",
       "txd": "mods/vehicles/445-PRFVTR1/rancher.txd"
     }
